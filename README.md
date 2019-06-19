@@ -14,3 +14,5 @@ If you would like to interact with the notebook, please use this URL and follow 
 If you would like to interact with the notebook on your own computer, please download the notebook (SYST530 Notebook.ipynb) as well as the data (Peril_Dataset.xlsx). 
 
 Please ignore the requirements.txt file as it is used by Binder (https://mybinder.org/).
+
+For any questions about this repository or the files inside - please email Ali Zaidi at szaidi@mitre.org
