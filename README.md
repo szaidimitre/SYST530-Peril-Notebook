@@ -12,3 +12,5 @@ If you would like to see the static version of the notebook for a quick view ple
 If you would like to interact with the notebook, please use this URL and follow the instructions in the lesson plan if it is your first time using Jupyter Notebooks: https://mybinder.org/v2/gh/szaidimitre/SYST530-Peril-Notebook/master. 
 
 If you would like to interact with the notebook on your own computer, please download the notebook (SYST530 Notebook.ipynb) as well as the data (Peril_Dataset.xlsx). 
+
+Please ignore the requirements.txt file as it is used by Binder (https://mybinder.org/).
